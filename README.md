@@ -30,7 +30,7 @@ GNU GPL v3
 
 ## preview
 
-![light](plasma/look-and-feel/com.github.vinceliuice.Monterey/contents/previews/fullscreenpreview.png)
-![dark](plasma/look-and-feel/com.github.vinceliuice.Monterey-dark/contents/previews/fullscreenpreview.png)
+![light](plasma/look-and-feel/com.github.vinceliuice.Monterey/contents/previews/fullscreenpreview.jpg)
+![dark](plasma/look-and-feel/com.github.vinceliuice.Monterey-dark/contents/previews/fullscreenpreview.jpg)
 
 

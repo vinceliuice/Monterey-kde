@@ -45,6 +45,7 @@ install () {
   cp -r "${REO_DIR}/images/Preview${color}.png" "${THEME_DIR}/Monterey${color}/Preview.png"
   sed -i "/\Name=/s/Monterey/Monterey${color}/" "${THEME_DIR}/Monterey${color}/metadata.desktop"
   sed -i "/\Theme-Id=/s/Monterey/Monterey${color}/" "${THEME_DIR}/Monterey${color}/metadata.desktop"
+  sed -i "s/Monterey/Monterey${color}/g" "${THEME_DIR}/Monterey${color}/Main.qml"
   # Success message
   prompt -s "\n * All done!"
 }

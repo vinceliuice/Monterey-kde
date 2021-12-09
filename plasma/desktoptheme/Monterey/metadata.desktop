@@ -19,7 +19,7 @@ defaultWidth=1920
 defaultHeight=1080
 
 [ContrastEffect]
-enabled=true
+enabled=false
 contrast=0.2
 intensity=1.4
 saturation=10

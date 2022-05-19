@@ -4,7 +4,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    sodipodi:docname="preferences.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,12 +21,12 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="6.5113636"
-     inkscape:cx="80.935427"
-     inkscape:cy="11.441536"
+     showgrid="true"
+     inkscape:zoom="4.6042294"
+     inkscape:cx="-17.701116"
+     inkscape:cy="0.21719161"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -136,7 +136,7 @@
   <g
      fill="currentColor"
      class="ColorScheme-Text"
-     id="32-32-preferences-desktop-display-randr">
+     id="preferences-desktop-display-randr">
     <path
        id="path31"
        fill="currentColor"
@@ -242,45 +242,6 @@
            r="1"
            cy="11"
            cx="119" />
-      </g>
-    </g>
-  </g>
-  <g
-     fill="currentColor"
-     transform="translate(24,-26)"
-     class="ColorScheme-Text"
-     id="preferences-desktop-display-randr">
-    <rect
-       id="rect69"
-       fill-opacity="0"
-       height="22"
-       width="22"
-       x="-24" />
-    <g
-       id="g81"
-       fill="currentColor"
-       class="ColorScheme-Text">
-      <path
-         id="path71"
-         d="m-20 9 4 4h-4z"
-         fill="currentColor"
-         class="ColorScheme-Text" />
-      <path
-         id="path73"
-         d="m-6 9-4-4h4z"
-         fill="currentColor"
-         class="ColorScheme-Text" />
-      <g
-         id="g79"
-         fill="currentColor"
-         class="ColorScheme-Text"
-         transform="translate(-24,-1)">
-        <path
-           id="path75"
-           d="m4 3c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-8c0-1.662-1.338-3-3-3zm0 2h14c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z" />
-        <path
-           id="path77"
-           d="m7 19c-1.108 0-2 0.892-2 2h12c0-1.108-0.892-2-2-2z" />
       </g>
     </g>
   </g>
@@ -395,5 +356,42 @@
        fill="currentColor"
        class="ColorScheme-Text"
        d="m127 86c-0.0335 0-0.0612 0.01635-0.0937 0.01953-0.0958 0.0094-0.19271 0.01954-0.2832 0.05664-0.24808 0.10116-0.44571 0.29879-0.54688 0.54688-0.0371 0.09049-0.0473 0.18738-0.0566 0.2832-3e-3 0.03259-0.0195 0.0603-0.0195 0.09375v2e-3 7.584l-4.3144-4.3145c-0.39174-0.39174-1.0223-0.39174-1.4141 0s-0.39174 1.0223 0 1.4141l5.7285 5.7285v1.1719l-5.7285 5.7285c-0.39174 0.39174-0.39174 1.0223 0 1.4141 0.39173 0.39174 1.0223 0.39174 1.4141 0l4.3144-4.3144v7.5859c0 0.12867 0.0265 0.25589 0.0762 0.37695 0.10048 0.24771 0.29596 0.44505 0.54297 0.54687 0.10854 0.045 0.2244 0.0633 0.33984 0.0684 0.0145 6.4e-4 0.0284 8e-3 0.043 8e-3 0.13007 0 0.25867-0.0255 0.38086-0.0762 0.12314-0.0508 0.23374-0.12406 0.32618-0.21679l6.0001-6.0001c0.39174-0.39173 0.39174-1.0223 0-1.4141h-2e-3l-4.2932-4.293 4.293-4.291h2e-3c0.39174-0.39174 0.39174-1.0243 0-1.416l-5.9961-5.9941-4e-3 -0.0039c-0.0933-0.0936-0.20555-0.16796-0.33008-0.21875-0.11684-0.04777-0.24454-0.07628-0.37891-0.07628zm1 3.4141 3.5859 3.5879-3.5859 3.584zm0 10 3.5859 3.5859-3.5859 3.5879z" />
+  </g>
+  <g
+     id="16-16-preferences-desktop-display-randr"
+     transform="translate(50,-18)">
+    <g
+       id="g1593"
+       transform="translate(-30,17)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <path
+         id="path1585"
+         d="m -16,-19 c -1.662,0 -3,1.338 -3,3 v 7 c 0,1.662 1.338,3 3,3 h 10 c 1.662,0 3,-1.338 3,-3 v -7 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 10 c 0.554,0 1,0.446 1,1 v 7 c 0,0.554 -0.446,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 v -7 c 0,-0.554 0.446,-1 1,-1 z"
+         sodipodi:nodetypes="ssssssssssssssssss" />
+      <rect
+         id="rect1587"
+         width="8"
+         height="2"
+         x="-15"
+         y="-5"
+         rx="1.1428572"
+         ry="1" />
+      <path
+         id="path1589"
+         d="m -15.5,-12 c -0.277,0 -0.5,0.223 -0.5,0.5 v 2 c 0,0.277 0.223,0.5 0.5,0.5 h 2 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 H -15 v -1.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z" />
+      <path
+         id="path1591"
+         d="m -6.5,-13 c 0.277,0 0.5,-0.223 0.5,-0.5 v -2 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -2 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 H -7 v 1.5 c 0,0.277 0.223,0.5 0.5,0.5 z" />
+    </g>
+    <rect
+       id="rect2146"
+       width="16"
+       height="16"
+       x="-49"
+       y="-2"
+       rx="0"
+       ry="0"
+       style="fill:none" />
   </g>
 </svg>

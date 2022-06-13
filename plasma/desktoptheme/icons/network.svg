@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="network.svg"
    id="svg1384"
    viewBox="0 0 22 22"
@@ -20,12 +20,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="-105.4473"
-     inkscape:cx="21.036427"
-     inkscape:zoom="5.6568542"
+     inkscape:cy="-117.20295"
+     inkscape:cx="285.14081"
+     inkscape:zoom="2.8284271"
      showgrid="true"
      id="namedview267"
-     inkscape:window-height="1004"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -39,7 +39,9 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-nodes="false"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid1585" />
@@ -238,46 +240,6 @@
      width="100%"
      transform="translate(-55)"
      id="network-flightmode-off" />
-  <g
-     transform="translate(-70,-7)"
-     id="32-32-network-wired-activated">
-    <rect
-       id="rect970"
-       opacity="0"
-       height="32"
-       width="32"
-       y="-145"
-       x="225" />
-    <g
-       id="g980"
-       fill="currentColor"
-       class="ColorScheme-Text">
-      <rect
-         id="rect972"
-         ry="1"
-         height="6"
-         width="2"
-         y="-129"
-         x="244" />
-      <path
-         id="path974"
-         d="m231-139c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h1v1c0 1.662 1.338 3 3 3h12c1.662 0 3-1.338 3-3v-1h1c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3zm0 2h20c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-3v3c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-3h-3c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" />
-      <rect
-         id="rect976"
-         ry="1"
-         height="6"
-         width="2"
-         y="-129"
-         x="240" />
-      <rect
-         id="rect978"
-         ry="1"
-         height="6"
-         width="2"
-         y="-129"
-         x="236" />
-    </g>
-  </g>
   <g
      transform="translate(37.01 -1)"
      id="network-wireless">
@@ -770,6 +732,7 @@
 
 
 
+
 class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
    </g>
     </g>
@@ -809,6 +772,7 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
 <path
    id="path1190"
    d="m-52.061 15a4 4 0 0 0-2.7676 1.1719l2.8281 2.8281 2.8281-2.8281a4 4 0 0 0-2.8281-1.1719 4 4 0 0 0-0.06055 0z" />
+
 
 
 
@@ -1233,11 +1197,17 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
        fill="#fdbc4b"
        d="m258.77 11.014c-0.97461 0.1128-1.7235 0.9159-1.768 1.896-6.8e-4 0.03-6.8e-4 0.06 0 0.09h1c-4.4e-4 -0.50736 0.37913-0.93464 0.883-0.994h0.115v-0.992zm0.232 2e-3v1c0.50702-5e-4 0.93417 0.37852 0.994 0.882v0.116h6e-3c4.4e-4 0.50736-0.37913 0.93464-0.883 0.994h-0.115v-8e-3c-0.0667-0.0027-0.13341-2e-3 -0.2 2e-3 -0.27904 0.01629-0.55157 0.0909-0.8 0.219v-0.207h-2e-3v2h1v-1.014h0.232c0.97461-0.1128 1.7235-0.9159 1.768-1.896 6.8e-4 -0.03 6.8e-4 -0.06 0-0.09h-0.014v-0.23c-0.1128-0.97461-0.9159-1.7235-1.896-1.768-0.03-6.75e-4 -0.06-6.75e-4 -0.09 0zm-0.998 5.984v1h1v-1z" />
   </g>
+  <use
+     xlink:href="#network-wired"
+     height="100%"
+     width="100%"
+     transform="translate(41)"
+     id="network-wired-activated" />
   <g
-     transform="translate(-30,44)"
-     id="network-wired">
+     transform="translate(-3,69)"
+     id="22-22-network-wired-activated">
     <rect
-       id="rect1352"
+       id="rect1646"
        opacity="0"
        ry="0"
        height="22"
@@ -1245,41 +1215,38 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
        y="-158"
        x="158" />
     <path
-       id="path1354"
+       id="path1648"
        fill="currentColor"
-       d="m163-154c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h0.18164c0.41156 1.1647 1.5093 2 2.8184 2h6c1.3091 0 2.4068-0.83531 2.8184-2h0.18164c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3zm0 2h12c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-2v1c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-1h-2c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z"
+       d="m 163,-154 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 0.18164 c 0.41156,1.1647 1.5093,2 2.8184,2 h 6 c 1.3091,0 2.4068,-0.83531 2.8184,-2 h 0.18164 c 1.662,0 3,-1.338 3,-3 v -6 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 12 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 h -2 v 1 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 v -1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -6 c 0,-0.554 0.446,-1 1,-1 z"
        class="ColorScheme-Text" />
   </g>
   <use
      xlink:href="#network-wired"
+     opacity="0.35"
      height="100%"
      width="100%"
-     transform="translate(27)"
-     id="network-wired-activated" />
-  <use
-     xlink:href="#network-wired"
-     height="100%"
-     width="100%"
-     transform="translate(27,24)"
-     id="22-22-network-wired-activated" />
-  <use
-     xlink:href="#network-wired"
-     opacity=".35"
-     height="100%"
-     width="100%"
-     transform="translate(-28)"
+     transform="translate(-40.38963)"
      id="network-unavailable" />
-  <use
-     y="0"
-     x="0"
-     xlink:href="#network-wired"
-     height="100%"
-     width="100%"
-     transform="translate(-0.63923297,24.87736)"
-     id="22-22-network-wired" />
   <g
-     transform="translate(30,24)"
-     id="network-wired-available">
+     transform="translate(-30.639233,68.87736)"
+     id="22-22-network-wired">
+    <rect
+       id="rect1652"
+       opacity="0"
+       ry="0"
+       height="22"
+       width="22"
+       y="-158"
+       x="158" />
+    <path
+       id="path1654"
+       fill="currentColor"
+       d="m 163,-154 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 0.18164 c 0.41156,1.1647 1.5093,2 2.8184,2 h 6 c 1.3091,0 2.4068,-0.83531 2.8184,-2 h 0.18164 c 1.662,0 3,-1.338 3,-3 v -6 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 12 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 h -2 v 1 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 v -1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -6 c 0,-0.554 0.446,-1 1,-1 z"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     transform="translate(15,50)"
+     id="22-22-network-wired-available">
     <rect
        id="rect1361"
        fill="#3498db"
@@ -1307,16 +1274,16 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
     <path
        id="path1367"
        fill="currentColor"
-       d="m190-135c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h0.18164c0.41156 1.1647 1.5093 2 2.8184 2h6c1.3091 0 2.4068-0.83531 2.8184-2h0.18164c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3zm0 2h12c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-2v1c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-1h-2c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z"
+       d="m 190,-135 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 0.18164 c 0.41156,1.1647 1.5093,2 2.8184,2 h 6 c 1.3091,0 2.4068,-0.83531 2.8184,-2 h 0.18164 c 1.662,0 3,-1.338 3,-3 v -6 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 12 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 h -2 v 1 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 v -1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -6 c 0,-0.554 0.446,-1 1,-1 z"
        class="ColorScheme-Text" />
   </g>
   <g
-     transform="translate(28,24)"
-     id="network-wired-activated-limited">
+     transform="translate(13,50)"
+     id="22-22-network-wired-activated-limited">
     <path
        id="path1370"
        fill="#fdbc4b"
-       d="m226-132a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm-1 3v5h2v-5z" />
+       d="m 226,-132 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m -1,3 v 5 h 2 v -5 z" />
     <rect
        id="rect1372"
        opacity="0"
@@ -1328,35 +1295,46 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
     <path
        id="path1374"
        fill="currentColor"
-       d="m220-135c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h0.18164c0.41156 1.1647 1.5093 2 2.8184 2h6c1.3091 0 2.4068-0.83531 2.8184-2h0.18164c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3zm0 2h12c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-2v1c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-1h-2c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z"
+       d="m 220,-135 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 0.18164 c 0.41156,1.1647 1.5093,2 2.8184,2 h 6 c 1.3091,0 2.4068,-0.83531 2.8184,-2 h 0.18164 c 1.662,0 3,-1.338 3,-3 v -6 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 12 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 h -2 v 1 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 v -1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -6 c 0,-0.554 0.446,-1 1,-1 z"
        class="ColorScheme-Text" />
   </g>
   <g
-     transform="translate(-35.182 23)"
-     id="network-wired-activated-locked">
+     transform="translate(-50.182,49)"
+     id="22-22-network-wired-activated-locked">
     <path
        id="path1377"
        opacity="0"
-       d="m305-139h22v22h-22z" />
+       d="m 305,-139 h 22 v 22 h -22 z" />
     <path
        id="path1379"
        fill="currentColor"
-       d="m310-135c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h0.18164c0.41156 1.1647 1.5093 2 2.8184 2h5v-2h-5c-0.554 0-1-0.446-1-1v-1h-2c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1h12c0.554 0 1 0.446 1 1v3.1875c1.1573 0.41743 2 1.5196 2 2.8125v-6c0-1.662-1.338-3-3-3z"
+       d="m 310,-135 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 0.18164 c 0.41156,1.1647 1.5093,2 2.8184,2 h 5 v -2 h -5 c -0.554,0 -1,-0.446 -1,-1 v -1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -6 c 0,-0.554 0.446,-1 1,-1 h 12 c 0.554,0 1,0.446 1,1 v 3.1875 c 1.1573,0.41743 2,1.5196 2,2.8125 v -6 c 0,-1.662 -1.338,-3 -3,-3 z"
        class="ColorScheme-Text" />
     <path
        id="path1381"
        fill="currentColor"
-       d="m322-128c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
+       d="m 322,-128 c -1.108,0 -2,0.892 -2,2 v 2 h -1 v 3 h 6 v -3 h -1 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z"
        class="ColorScheme-Text" />
   </g>
-  <use
-     height="100%"
-     width="100%"
-     transform="translate(-38.38963)"
-     id="32-32-network-wired"
-     xlink:href="#32-32-network-wired-activated"
-     y="0"
-     x="0" />
+  <g
+     transform="translate(-96,-7)"
+     id="network-wired">
+    <rect
+       id="rect1658"
+       opacity="0"
+       height="32"
+       width="32"
+       y="-145"
+       x="225" />
+    <g
+       id="g1668"
+       fill="currentColor"
+       class="ColorScheme-Text">
+      <path
+         id="path1662"
+         d="m 231,-139 c -1.662,0 -3,1.338 -3,3 v 10 c 0,1.662 1.338,3 3,3 h 1 v 1 c 0,1.662 1.338,3 3,3 h 12 c 1.662,0 3,-1.338 3,-3 v -1 h 1 c 1.662,0 3,-1.338 3,-3 v -10 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 20 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -3 v 3 c 0,0.554 -0.446,1 -1,1 h -12 c -0.554,0 -1,-0.446 -1,-1 v -3 h -3 c -0.554,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.446,-1 1,-1 z" />
+    </g>
+  </g>
   <g
      transform="translate(-2.4615047,-186.22887)"
      id="network-mobile-available">
@@ -4075,5 +4053,117 @@ class=&quot;ColorScheme-Text&quot; fill=&quot;currentColor&quot;/&gt;
        d="m 20.498139,-109 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 5.83398 l -2.439453,-2.43945 a 0.50005,0.50005 0 0 0 -0.0039,0 c -0.356341,-0.35653 -0.994141,-0.99414 -0.994141,-0.99414 a 0.50005,0.50005 0 0 0 -0.707031,0 l -0.707032,0.70703 a 0.50005,0.50005 0 0 0 0,0.70703 l 4.191406,4.1875 -4.191406,4.1875 a 0.50005,0.50005 0 0 0 0,0.70703 l 0.707032,0.70704 a 0.50005,0.50005 0 0 0 0.707031,0 c 0,0 0.637749,-0.6375 0.994141,-0.99414 l 0.002,-0.002 a 0.50005,0.50005 0 0 0 0.002,0 l 2.441306,-2.43941 V -92.5 a 0.50005,0.50005 0 0 0 0.5,0.5 h 1 a 0.50005,0.50005 0 0 0 0.353515,-0.14648 l 4,-4 a 0.50005,0.50005 0 0 0 0,-0.70704 l -3.646484,-3.64648 3.646484,-3.64648 a 0.50005,0.50005 0 0 0 0,-0.70704 l -4,-4 A 0.50005,0.50005 0 0 0 21.500092,-109 Z m 1.501953,3.12305 1.378906,1.3789 -1.378906,1.37891 z m 0,8 1.378906,1.3789 -1.378906,1.37891 z"
        class="ColorScheme-Text"
        fill="currentColor" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#22-22-network-wired"
+     id="22-22-network-unavailable"
+     transform="translate(-29.360767)"
+     style="opacity:0.35" />
+  <g
+     id="network-wired-activated-locked">
+    <rect
+       id="rect5049"
+       opacity="0"
+       height="32"
+       width="32"
+       y="-152"
+       x="306" />
+    <g
+       id="g5053"
+       fill="currentColor"
+       class="ColorScheme-Text"
+       transform="translate(81,-7)">
+      <path
+         id="rect5822"
+         d="m 250,-128 c -1.108,0 -2,0.892 -2,2 v 2 c -1.108,0 -2,0.892 -2,2 v 1 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -1 c 0,-1.108 -0.892,-2 -2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 c 0.554,0 1,0.446 1,1 v 2 h -2 v -2 c 0,-0.554 0.446,-1 1,-1 z" />
+      <path
+         id="path5051"
+         d="M 231 -139 C 229.338 -139 228 -137.662 228 -136 L 228 -126 C 228 -124.338 229.338 -123 231 -123 L 232 -123 L 232 -122 C 232 -120.338 233.338 -119 235 -119 L 244.54883 -119 C 244.20108 -119.59104 244 -120.27565 244 -121 L 235 -121 C 234.446 -121 234 -121.446 234 -122 L 234 -125 L 231 -125 C 230.446 -125 230 -125.446 230 -126 L 230 -136 C 230 -136.554 230.446 -137 231 -137 L 251 -137 C 251.554 -137 252 -136.554 252 -136 L 252 -129.45117 C 253.18889 -128.75167 254 -127.45704 254 -126 L 254 -136 C 254 -137.662 252.662 -139 251 -139 L 231 -139 z " />
+    </g>
+  </g>
+  <g
+     id="network-wired-available">
+    <rect
+       id="rect5033"
+       opacity="0"
+       height="32"
+       width="32"
+       y="-152"
+       x="216" />
+    <g
+       id="g5037"
+       fill="currentColor"
+       class="ColorScheme-Text"
+       transform="translate(-9,-7)">
+      <path
+         id="path5035"
+         d="m 231,-139 c -1.662,0 -3,1.338 -3,3 v 10 c 0,1.662 1.338,3 3,3 h 1 v 1 c 0,1.662 1.338,3 3,3 h 12 c 1.662,0 3,-1.338 3,-3 v -1 h 1 c 1.662,0 3,-1.338 3,-3 v -10 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 20 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -3 v 3 c 0,0.554 -0.446,1 -1,1 h -12 c -0.554,0 -1,-0.446 -1,-1 v -3 h -3 c -0.554,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.446,-1 1,-1 z" />
+    </g>
+    <rect
+       id="rect5118"
+       width="2"
+       height="7"
+       x="227"
+       y="-141"
+       rx="1"
+       ry="1"
+       style="fill:#3498db;fill-opacity:1" />
+    <rect
+       id="rect5167"
+       width="2"
+       height="7"
+       x="231"
+       y="-141"
+       rx="1"
+       ry="1"
+       style="fill:#3498db;fill-opacity:1" />
+    <rect
+       id="rect5169"
+       width="2"
+       height="7"
+       x="235"
+       y="-141"
+       rx="1"
+       ry="1"
+       style="fill:#3498db;fill-opacity:1" />
+  </g>
+  <g
+     id="network-wired-activated-limited">
+    <rect
+       id="rect5041"
+       opacity="0"
+       height="32"
+       width="32"
+       y="-152"
+       x="261" />
+    <g
+       id="g5045"
+       fill="currentColor"
+       class="ColorScheme-Text"
+       transform="translate(36,-7)">
+      <path
+         id="path5043"
+         d="m 231,-139 c -1.662,0 -3,1.338 -3,3 v 10 c 0,1.662 1.338,3 3,3 h 1 v 1 c 0,1.662 1.338,3 3,3 h 12 c 1.662,0 3,-1.338 3,-3 v -1 h 1 c 1.662,0 3,-1.338 3,-3 v -10 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 20 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -3 v 3 c 0,0.554 -0.446,1 -1,1 h -12 c -0.554,0 -1,-0.446 -1,-1 v -3 h -3 c -0.554,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.446,-1 1,-1 z" />
+    </g>
+    <rect
+       id="rect5645"
+       width="2"
+       height="2"
+       x="276"
+       y="-141"
+       rx="2"
+       ry="2"
+       style="fill:#fdbc4b;fill-opacity:1" />
+    <rect
+       id="rect5647"
+       width="2"
+       height="7"
+       x="276"
+       y="-138"
+       rx="1"
+       ry="1"
+       style="fill:#fdbc4b;fill-opacity:1" />
   </g>
 </svg>

@@ -58,7 +58,7 @@ respect_DE=true
 scrollbar_in_view=true
 spin_button_width=16
 submenu_delay=250
-transient_groove=true
+transient_groove=false
 tree_branch_line=true
 no_inactiveness=false
 reduce_menu_opacity=25
@@ -138,7 +138,6 @@ frame.left=3
 frame.right=3
 interior=true
 interior.element=button
-indicator.size=8
 text.normal.color=#dedede
 text.focus.color=#dedede
 text.press.color=#ffffff
@@ -151,7 +150,6 @@ text.shadow.depth=1
 text.shadow.alpha=80
 text.margin=1
 text.iconspacing=8
-indicator.element=arrow
 text.margin.top=0
 text.margin.bottom=0
 text.margin.left=4
@@ -173,7 +171,21 @@ frame.patternsize=20
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
-indicator.size=0
+interior.element=tbutton
+frame=true
+frame.element=tbutton
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
+text.normal.color=#dedede
+text.focus.color=#ffffff
+text.press.color=#ffffff
+text.toggle.color=ffffff
+text.normal.inactive.color=#dedede74
+text.toggle.inactive.color=#ffffff74
+indicator.element=arrow
+indicator.size=8
 
 [ToolbarButton]
 inherits=PanelButtonCommand
@@ -190,7 +202,7 @@ text.normal.color=#dedede
 text.focus.color=#ffffff
 text.normal.inactive.color=#aaaaaa
 text.toggle.inactive.color=#aaaaaa
-indicator.element=arrow
+indicator.size=0
 
 [ToolbarLineEdit]
 frame.element=tlineedit

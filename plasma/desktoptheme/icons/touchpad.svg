@@ -1,30 +1,170 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="128" height="64" id="svg2" version="1.1" inkscape:version="0.48.4 r9939" sodipodi:docname="touchpad.svg">
-  <defs id="defs4" />
-  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="3.959798" inkscape:cx="51.717623" inkscape:cy="35.126778" inkscape:document-units="px" inkscape:current-layer="touchpad_disabled" showgrid="false" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="1366" inkscape:window-height="724" inkscape:window-x="-4" inkscape:window-y="21" inkscape:window-maximized="1" />
-  <metadata id="metadata7">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-988.36218)">
-    <g id="touchpad_enabled">
-      <title id="title3772">touchpad_enabled</title>
-      <rect ry="5" rx="5" transform="translate(0,988.36218)" y="2.7595019" x="2.9041886" height="43.184021" width="58.210041" id="rect3755" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#353535;stroke-width:1.50000000000000000;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect ry="5" rx="5" y="1036.7048" x="2.9041886" height="13.889598" width="28.031733" id="rect3757" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#353535;stroke-width:1.50000000000000000;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#353535;stroke-width:1.50000000000000000;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3759" width="28.031733" height="13.889598" x="32.829956" y="1036.5786" rx="5" ry="5" />
-    </g>
-    <g id="touchpad_disabled">
-      <title id="title3779">touchpad_disabled</title>
-      <rect style="fill:#ffffff;fill-opacity:0.19711539;fill-rule:nonzero;stroke:#323232;stroke-width:1.50000000000000000;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3761" width="58.210041" height="43.184021" x="66.29126" y="990.61658" rx="5" ry="5" />
-      <rect style="fill:#ffffff;fill-opacity:0.19711539;fill-rule:nonzero;stroke:#323232;stroke-width:1.50000000000000000;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3763" width="28.031733" height="13.889598" x="66.29126" y="1036.1997" rx="5" ry="5" />
-      <rect ry="5" rx="5" y="1036.0735" x="96.217026" height="13.889598" width="28.031733" id="rect3765" style="fill:#ffffff;fill-opacity:0.19711539;fill-rule:nonzero;stroke:#323232;stroke-width:1.50000000000000000;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
+<svg
+   version="1.1"
+   viewBox="0 0 54 64"
+   id="svg29"
+   sodipodi:docname="touchpad.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="4.3359375"
+     inkscape:cx="28.367568"
+     inkscape:cy="98.248649"
+     inkscape:window-width="1440"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29">
+    <inkscape:grid
+       type="xygrid"
+       id="grid850" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+  </defs>
+  <g
+     id="22-22-touchpad_enabled">
+    <path
+       d="M 0,42 V 64 H 22 V 42 Z"
+       fill="none"
+       id="path7" />
+    <path
+       id="rect976"
+       d="m 5,44 c -1.662,0 -3,1.338 -3,3 v 12 c 0,1.662 1.338,3 3,3 h 12 c 1.662,0 3,-1.338 3,-3 V 47 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 12 c 0.554,0 1,0.446 1,1 v 9 H 4 V 47 C 4,46.446 4.446,46 5,46 Z M 4,58 h 6 v 2 H 5 C 4.446,60 4,59.554 4,59 Z m 8,0 h 6 v 1 c 0,0.554 -0.446,1 -1,1 h -5 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
+  <g
+     id="touchpad_enabled">
+    <path
+       d="M 22,32 V 64 H 54 V 32 Z"
+       fill="none"
+       id="path12" />
+    <path
+       id="rect1437"
+       d="m 29,35 c -2.216,0 -4,1.784 -4,4 v 18 c 0,2.216 1.784,4 4,4 h 18 c 2.216,0 4,-1.784 4,-4 V 39 c 0,-2.216 -1.784,-4 -4,-4 z m 0,2 h 18 c 1.108,0 2,0.892 2,2 V 53 H 27 V 39 c 0,-1.108 0.892,-2 2,-2 z m -2,18 h 10 v 4 h -8 c -1.108,0 -2,-0.892 -2,-2 z m 12,0 h 10 v 2 c 0,1.108 -0.892,2 -2,2 h -8 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-touchpad_disabled">
+    <path
+       class="ColorScheme-NegativeText"
+       d="M 8.8476562,16 8,16.847656 10.152344,19 8,21.152344 8.8476562,22 11,19.847656 13.152344,22 14,21.152344 11.847656,19 14,16.847656 13.152344,16 11,18.152344 Z"
+       fill="currentColor"
+       id="path19" />
+    <path
+       d="M 0,10 V 32 H 22 V 10 Z"
+       fill="none"
+       id="path1833" />
+    <path
+       id="path1835"
+       d="m 5,12 c -1.662,0 -3,1.338 -3,3 v 12 c 0,1.662 1.338,3 3,3 h 12 c 1.662,0 3,-1.338 3,-3 V 15 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 12 c 0.554,0 1,0.446 1,1 v 9 H 4 V 15 C 4,14.446 4.446,14 5,14 Z M 4,26 h 6 v 2 H 5 C 4.446,28 4,27.554 4,27 Z m 8,0 h 6 v 1 c 0,0.554 -0.446,1 -1,1 h -5 z"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       style="opacity:0.35" />
+  </g>
+  <g
+     id="touchpad_disabled">
+    <path
+       class="ColorScheme-NegativeText"
+       d="M 34,9.707 37.293,13 34,16.293 C 34.013,16.318 34.707,17 34.707,17 L 38,13.707 41.293,17 42,16.293 38.707,13 42,9.707 41.293,9 38,12.293 34.707,9 Z"
+       fill="currentColor"
+       id="path27" />
+    <path
+       d="M 22,0 V 32 H 54 V 0 Z"
+       fill="none"
+       id="path1839" />
+    <path
+       id="path1841"
+       d="m 29,3 c -2.216,0 -4,1.784 -4,4 v 18 c 0,2.216 1.784,4 4,4 h 18 c 2.216,0 4,-1.784 4,-4 V 7 C 51,4.784 49.216,3 47,3 Z m 0,2 h 18 c 1.108,0 2,0.892 2,2 V 21 H 27 V 7 c 0,-1.108 0.892,-2 2,-2 z m -2,18 h 10 v 4 h -8 c -1.108,0 -2,-0.892 -2,-2 z m 12,0 h 10 v 2 c 0,1.108 -0.892,2 -2,2 h -8 z"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       style="opacity:0.35" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#22-22-touchpad_enabled"
+     id="22-22-input-touchpad-on"
+     transform="translate(0,73)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#touchpad_enabled"
+     id="input-touchpad-on"
+     transform="translate(0,73)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#22-22-touchpad_disabled"
+     id="22-22-input-touchpad-off"
+     transform="translate(0,73)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#touchpad_disabled"
+     id="input-touchpad-off"
+     transform="translate(0,73)"
+     width="100%"
+     height="100%" />
 </svg>
